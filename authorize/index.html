@@ -1,0 +1,39 @@
+<html>
+<head>
+</head>
+<header>
+<center>Authorize Net API
+</header>
+<body>
+<form action="" method="post">
+    <div class="error"></div>
+ 
+        <h3>BILLING ADDRESS</h3>
+       <input type="email" name="email" placeholder="Email" required />
+       <input type="text" name="phone" placeholder="Phone Number" />
+       <input type="text" name="fname" placeholder="First Name" required />
+    <input type="text" name="lname" placeholder="Last Name" required />
+ 
+    <input type="text" name="address" placeholder="Street Address" required />
+    <select name="country" id="country" required>
+           <option value="">Select Country</option>
+        <!-- country list -->
+    </select>
+ 
+    <input type="text" name="city" placeholder="City" required />
+    <select name="state" id="state" required>
+        <option value="">Select State / Province</option>
+        <!-- state list for the countries -->
+    </select>
+ 
+       <h3>CREDIT CARD INFORMATION</h3>
+       <input type="text" name="card" id="credit-card" placeholder="Credit Card No." required />
+ 
+    <span>Expiration Date (MM/YY)</span>
+    <input type="text" name="mm" class="expire" placeholder="MM" required />
+    <input type="text" name="yy" class="expire" placeholder="YY" required />
+ 
+    <input type="submit" value="Checkout" />
+</form>
+</body>
+</html>

@@ -1,0 +1,34 @@
+[25-Mar-2016 05:21:25 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:21:25 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:21:30 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:21:30 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:23:41 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:23:41 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:25:27 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:25:27 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:27:50 America/Denver] PHP Parse error:  syntax error, unexpected '"' in /home/formalbu/public_html/dev/chart/insert.php on line 4
+[25-Mar-2016 05:29:22 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:29:22 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:30:16 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:30:16 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:30:49 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:30:49 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:31:51 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 14
+[25-Mar-2016 05:31:51 America/Denver] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:38:53 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/formalbu/public_html/dev/chart/index.php on line 41
+[25-Mar-2016 05:39:05 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/formalbu/public_html/dev/chart/index.php on line 41
+[25-Mar-2016 05:39:21 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/formalbu/public_html/dev/chart/index.php on line 41
+[25-Mar-2016 05:39:33 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home/formalbu/public_html/dev/chart/index.php on line 41
+[25-Mar-2016 05:41:42 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home/formalbu/public_html/dev/chart/index.php on line 27
+[25-Mar-2016 05:41:43 America/Denver] PHP Parse error:  syntax error, unexpected '>' in /home/formalbu/public_html/dev/chart/index.php on line 27
+[25-Mar-2016 05:45:40 America/Denver] PHP Parse error:  syntax error, unexpected '<' in /home/formalbu/public_html/dev/chart/index.php on line 31
+[25-Mar-2016 05:46:14 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/formalbu/public_html/dev/chart/index.php on line 39
+[25-Mar-2016 05:46:14 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/formalbu/public_html/dev/chart/index.php on line 39
+[25-Mar-2016 05:46:16 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/formalbu/public_html/dev/chart/index.php on line 39
+[25-Mar-2016 05:46:50 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/formalbu/public_html/dev/chart/index.php on line 40
+[25-Mar-2016 05:52:18 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:52:35 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:52:36 America/Denver] PHP Fatal error:  Call to a member function query() on a non-object in /home/formalbu/public_html/dev/chart/index.php on line 15
+[25-Mar-2016 05:53:48 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/formalbu/public_html/dev/chart/index.php on line 65
+[25-Mar-2016 05:53:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/formalbu/public_html/dev/chart/index.php on line 65
+[25-Mar-2016 05:53:49 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home/formalbu/public_html/dev/chart/index.php on line 65
